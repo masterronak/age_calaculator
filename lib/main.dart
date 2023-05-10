@@ -20,7 +20,7 @@ class _MyAppState extends State<MyApp> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text("Slider"),
+        title: Text("Slider App"),
         centerTitle: true,
       ),
       body: Column(
